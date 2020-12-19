@@ -24,7 +24,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring.version>5.1.0.RELEASE</spring.version>
         <jackson.version>2.9.9.1</jackson.version>
-        <mysql.version>5.1.38</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <mongo.version>3.10.1</mongo.version>
         <jedis.version>2.9.0</jedis.version>
         <commons.lang.version>3.4</commons.lang.version>
